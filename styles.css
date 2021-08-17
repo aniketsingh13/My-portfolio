@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Noto+Sans+TC:wght@400;700&display=swap');
+:root{
+    --primary-color: #AA77FF;
+}
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+/** containers **/
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.container-centre{
+    max-width: 600px;
+    margin: auto;
+}
+/** links **/
