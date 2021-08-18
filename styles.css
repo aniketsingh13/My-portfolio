@@ -65,6 +65,7 @@ padding: 0.5rem 1rem;
 .hero
 {
     padding: 2rem;
+    padding-top: 5rem;
 }
 .hero .hero-img{
     max-width: 350px;
